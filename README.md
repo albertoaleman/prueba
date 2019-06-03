@@ -1,3 +1,3 @@
 # prueba
-mi proyecto con git
+# mi proyecto con git
 es mi primer proyecto
